@@ -23,9 +23,9 @@ function decrement(n) {
 }
 
 function makeInt(string) {
-  return string(a,10)
+  return string(n,10)
 }
 
 function preserveDecimal(string) {
-  return string(a,10)
+  return string(n,10)
 }
