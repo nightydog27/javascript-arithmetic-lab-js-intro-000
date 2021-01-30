@@ -21,3 +21,11 @@ function increment(n) {
 function decrement(n) {
   return n -= 1
 }
+
+function makeInt(string) {
+  return string(a,10)
+}
+
+function preserveDecimal(string) {
+  return string(a,10)
+}
